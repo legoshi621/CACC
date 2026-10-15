@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="CACC.Temperatura.UnitTestMSTest/CACC.Temperatura.UnitTestMSTest.csproj" />
+  <Project Path="CACC.StringManipulator/CACC.StringManipulator.csproj" />
   <Project Path="CACC.Temperatura/CACC.Temperatura.csproj" />
 </Solution>
