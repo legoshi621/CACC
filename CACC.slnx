@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="CACC.Temperatura/CACC.Temperatura.csproj" />
+</Solution>
